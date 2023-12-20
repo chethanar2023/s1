@@ -1,0 +1,1 @@
+factorial of two numbers
