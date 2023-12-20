@@ -7,7 +7,12 @@ add()
   int sum;
   printf("sum=%d",a+b);
 }
-sub();
+sub()
+{
+	int sub;
+	printf("sub=%d",sub);
+}
+
 mul();
 div();
 }
